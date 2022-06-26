@@ -1,4 +1,4 @@
-from functions.functions import *
+from functions import *
 from datetime import date
 from nis import match
 from time import sleep
